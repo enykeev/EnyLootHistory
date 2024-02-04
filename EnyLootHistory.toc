@@ -1,0 +1,10 @@
+## Interface: 100205
+## Title: Eny Loot History
+## Notes: Keep track of loot rolls
+## Author: Kirill Enykeev
+## SavedVariables: EnyLootHistoryDB
+## Version: 0.1
+
+embeds.xml
+
+Core.lua
